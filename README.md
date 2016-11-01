@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/confuser/node-bunyan-usergrid.png?branch=master)](https://travis-ci.org/confuser/node-bunyan-usergrid)
 
-Send bunyan logs into[Usergrid](https://usergrid.apache.org)
+Send bunyan logs into [Usergrid](https://usergrid.apache.org)
 
 ## Installation
 ```
