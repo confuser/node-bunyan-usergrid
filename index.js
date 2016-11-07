@@ -1,6 +1,7 @@
 var createUsergrid = require('save-usergrid')
   , predefinedProperties =
     [ 'uuid'
+    , 'name'
     , 'type'
     , 'created'
     , 'modified'
